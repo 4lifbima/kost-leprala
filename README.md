@@ -1,10 +1,9 @@
-<p style="text-align: center;">
+
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
-</p>
 
 # Kost Le Prala - Sistem Informasi Manajemen Kost
 
@@ -89,6 +88,7 @@ Aplikasi ini memiliki dua hak akses: **Admin** dan **Penghuni**.
 ---
 
 ## Susunan Project
+```bash
 kost-leprala/
 │
 ├── 📁 dashboard/                     # Semua halaman setelah login
@@ -109,7 +109,7 @@ kost-leprala/
 ├── 📄 index.php                      # Halaman login utama
 ├── 📄 logout.php                     # Skrip proses logout
 └── 📄 README.md                      # Dokumentasi proyek
-
+```
 
 ---
 
